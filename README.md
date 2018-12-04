@@ -8,3 +8,5 @@ Exemplo de aplicação [Flask](http://flask.pocoo.org) que consome dados de um [
 docker build -t flask-docker .
 docker-compose up -d
 ```
+
+![](https://github.com/vcamaral/flask-docker/raw/master/images/running.png)
